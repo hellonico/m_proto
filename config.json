@@ -1,0 +1,5 @@
+{
+	"api_endpoint": "http://magento2/api/v2_soap?wsdl=1",
+	"username":"nico2",
+	"apiKey": "123456"
+}
